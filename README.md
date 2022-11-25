@@ -1,6 +1,6 @@
 # Plotting Earthquakes Using USGS Data 
 
-## Note:  A API Key for Mapbox.com API will need to be generated to view site live.  (Reference to a config.js file is in the index.html file) 
+## Note:  An API Key for Mapbox.com API will need to be generated to view site live.  (Reference to a config.js file is in the index.html file) 
 
 ### Overview 
 This project is the capstone of week 14 of the Data Analytics Bootcamp.  It combines knowledge of JavaScript, HTML, CSS, and incorporates Leaflet  and the Mapbox API to build interactive maps that track earthquake activity over the past 7 days.  
